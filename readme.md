@@ -3,24 +3,24 @@
 *Scheduling, divisions, and payout information subject to change based on franchise count*
 
 # Contents
--[Entry Fee](#entry-fee)
--[Teams](#teams)
--[Roster](#roster)
--[Starting Lineup](#starting-lineup)
--[Scoring](#scoring)
--[Schedule & Divisions](#schedule-&-divisions)
--[Playoffs](#playoffs)
--[Losers Bracket](#losers-bracket)
--[Toilet Bowl](#toilet-bowl)
--[Standard Ranking Tiebreaker](#standard-ranking-tiebreaker)
--[Waivers](#waivers)
--[Trades](#trades)
--[Payouts](#payouts)
--Initial Draft
--Annual Rookie Draft
--Rule changes
--Managerial stuff(manager responsibilities, orphan teams, collusion, commish sanctions...)
--Release Notes
+- [Entry Fee](#entry-fee)
+- [Teams](#teams)
+- [Roster](#roster)
+- [Starting Lineup](#starting-lineup)
+- [Scoring](#scoring)
+- [Schedule & Divisions](#schedule-&-divisions)
+- [Playoffs](#playoffs)
+- [Losers Bracket](#losers-bracket)
+- [Toilet Bowl](#toilet-bowl)
+- [Standard Ranking Tiebreaker](#standard-ranking-tiebreaker)
+- [Waivers](#waivers)
+- [Trades](#trades)
+- [Payouts](#payouts)
+- Initial Draft
+- Annual Rookie Draft
+- Rule changes
+- Managerial stuff(manager responsibilities, orphan teams, collusion, commish sanctions...)
+- Release Notes
 
 ___
 
