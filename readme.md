@@ -7,7 +7,7 @@
 - [Roster](#roster)
 - [Starting Lineup](#starting-lineup)
 - [Scoring](#scoring)
-- [Schedule & Divisions](#schedule-&-divisions)
+- [Schedule And Divisions](#schedule-&-divisions)
 - [Playoffs](#playoffs)
 - [Losers Bracket](#losers-bracket)
 - [Standard Ranking Tiebreaker](#standard-ranking-tiebreaker)
@@ -58,7 +58,7 @@ See scoring settings within Sleeper.
 
 ___
 
-# Schedule & Divisions
+# Schedule And Divisions
 Franchises will be split into two conferences with two divisions, which will be filled randomly with 3 teams each(franchise count allowing). 
 
 - North Conference
