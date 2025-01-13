@@ -1,6 +1,5 @@
 # Fourth and Forever - 2025-2026 season rules
-*Subject to change based if the Sleeper app doesn't allow for certain rules*
-*Scheduling, divisions, and payout information subject to change based on franchise count*
+*Subject to change if the Sleeper app doesn't allow for every rule. Scheduling, divisions and payout info is based on participation.*
 
 # Contents
 - [Entry Fee](#entry-fee)
@@ -95,7 +94,7 @@ Conference leaders will be awarded a bye week. The first week of playoffs(Week 1
 | #1(Higher conference champ) |     | Bye                         |
 | #2(Lower conference champ)  |     | Bye                         |
 | #3(Higher ranked div champ) |     | #6(Lower ranked at-large)   |
-| #4(lower ranked div champ   |     | #5(Higher ranked at-large)  |
+| #4(Lower ranked div champ   |     | #5(Higher ranked at-large)  |
 
 The second week(week 16) of playoffs:
 
