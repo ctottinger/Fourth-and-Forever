@@ -7,7 +7,7 @@
 - [Roster](#roster)
 - [Starting Lineup](#starting-lineup)
 - [Scoring](#scoring)
-- [Schedule And Divisions](#schedule-&-divisions)
+- [Schedule And Divisions](#schedule-and-divisions)
 - [Playoffs](#playoffs)
 - [Losers Bracket](#losers-bracket)
 - [Standard Ranking Tiebreaker](#standard-ranking-tiebreaker)
