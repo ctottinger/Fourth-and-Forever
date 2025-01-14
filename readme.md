@@ -2,6 +2,7 @@
 *Subject to change if the Sleeper app doesn't allow for every rule. Scheduling, divisions and payout info is based on participation.*
 
 # Contents
+- [Commissioners Overview](#commissioners-overview)
 - [Entry Fee](#entry-fee)
 - [Teams](#teams)
 - [Roster](#roster)
@@ -9,17 +10,22 @@
 - [Scoring](#scoring)
 - [Schedule And Divisions](#schedule-and-divisions)
 - [Playoffs](#playoffs)
-- [Losers Bracket](#losers-bracket)
+- [Consolation Bracket](#consolation-bracket)
 - [Standard Ranking Tiebreaker](#standard-ranking-tiebreaker)
 - [Waivers](#waivers)
 - [Trades](#trades)
 - [Payouts](#payouts)
-- [Initial Draft](#initial-draft)
+- [Startup Draft](#startup-draft)
 - [Annual Rookie Draft](#annual-rookie-draft)
 - [Rule Changes](#rule-changes)
 - [Orphan Teams](#orphan-teams)
 - Managerial stuff(collusion, commish sanctions...)
 - Release Notes
+
+---
+
+# Commissioners Overview
+Overview goes here... going over general stuff with a brief overview of important rules with links to read more.
 
 ___
 
@@ -30,12 +36,12 @@ ___
 
 # Teams
 The intention is to have 12 franchises, but as each year may be variable the structure will change. Franchises competing this season:
-- New England Flaccid Balls(Tanner Ottinger)
+- *Competing teams finalized later*
 
 ___
 
 # Roster
-Each team will have a maximum of 16 active players. Teams shall have no more than 3 quarterbacks, but there will be no other restrictions. 2 IR slots will be available, but managers will be required to monitor their players status and activate when necessary within a timely fashion to ensure the IR slots aren't used as extra active player storage.
+Each team will have a maximum of 25 active players. Teams shall have no more than 3 quarterbacks, but there will be no other restrictions. 4 IR slots will be available, but managers will be required to monitor their players status and activate when necessary within a timely fashion to ensure the IR slots aren't used as extra active player storage.
 
 ___
 
@@ -109,7 +115,7 @@ The championship will be played in week 17 with the two remaining teams.
 
 ___
 
-# Losers Bracket
+# Consolation Bracket
 
 Losers bracket will be same as the playoff bracket, with the 7th through 12th seeds. Instead of seeding based on conference or division standing, the losers bracket will only be seeded based on overall ranking via the [Standard Ranking Tiebreaker](#standard-ranking-tiebreaker). The final winner will get the following 1.01 rookie draft pick, with the rest being inverse of their final rankings.
 
@@ -172,18 +178,20 @@ The final structure is subject to change based on participants. Basically 3&4 ge
 
 ___
 
-# Initial Draft
-This will only be required for the first season. The initial draft will operate just like a normal fantasy draft would, with a random linear draft order. This will take place before the NFL draft at latest(*hopefully*)
+# Startup Draft
+This will only be required for the first season. The initial draft will operate just like a normal fantasy draft would, with a random snake draft order. This will take place shortly after the NFL draft, with all players included in the draft pool including rookies. 
 
 ___
 
 # Annual Rookie Draft
-The rookie draft occur every year after the NFL draft. Teams will have draft positions according to their finishing positions from the previous year in the future, but for the first year the rookie draft will be inverse order from the initial draft.
+The rookie draft occur every year after the NFL draft. Teams will have draft positions according to their finishing positions from the previous year, but for the 2025-2026 season this won't be necessary. The draft order will be as follows:
+
+
 
 ___
 
 # Rule Changes
-The guidelines for rule changes are split into In Season, and Out of Season, based on wether they change the competitive balance of the league. An In Season rule change may be an unforeseen situation or consequence of a rule that should be changed, in order to keep things fair for all franchises. This could be a scoring settings change, or a waiver issue, or really anything that fucks over an undeserving minority of the league. An Out of Season rule change are bigger rule changes such as roster size expansion or playoff seed changes.
+The guidelines for rule changes are split into In Season, and Out of Season, based on whether they change the competitive balance of the league. An In Season rule change may be an unforeseen situation or consequence of a rule that should be changed, in order to keep things fair for all franchises. This could be a scoring settings change, or a waiver issue, or really anything that fucks over an undeserving minority of the league. An Out of Season rule change are bigger rule changes such as roster size expansion or playoff seed changes.
 ## In Season rule changes
 All In Season rule changes are at the discretion of the Commissioner. If you feel that an immediate rule change is in order, please contact the Commissioner promptly and explain your reasoning. If a rule change is required immediately/retroactively, then it may be done as such, but for any rule changes brought up during the season a 1 week waiting period *may* be used to ensure that nobody is able to gain an advantage using a rule change. These will be judged on a case-by-case basis, and league input may be called for.
 ## Out of Season rule changes
