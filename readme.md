@@ -1,7 +1,7 @@
 # Fourth and Forever - 2025-2026 season rules
 *Subject to change if the Sleeper app doesn't allow for every rule. Scheduling, divisions and payout info is based on participation.*
 
-# Contents
+# Contents @
 - [Commissioners Overview](#commissioners-overview)
 - [Entry Fee](#entry-fee)
 - [Teams](#teams)
@@ -29,8 +29,22 @@ Overview goes here... going over general stuff with a brief overview of importan
 
 ___
 
+# Important Dates
+- *TBD* Entry fees final due date
+- *TBD* Startup Draft
+- *TBD-wed before wk 1* Rosters shrink back to 25 slots after rookie draft
+- *TBD* FAAB will reset to $1000 for regular season
+- *Wednesday before wk 14* Trading will lock before playoffs
+- *TBD-before playoffs end* Retirement notification period end
+- *Wednesday following playoffs* Trading will unlock
+- *Wednesday after SB* FAAB will reset to $200 for off-season
+
+___
+
 # Entry Fee
-League fees will be $50 for the 2025-2026 season with the intention of increasing next year. This season, all competing teams must buy in before the chosen initial draft, any team not bought in will be removed from the league. Future years fees will be non-refundable in the interest of competition.
+The entry fee for the 2025-2026 season will be **$50**, with the intention of increasing the fee in future seasons. All competing teams must pay their entry fee in full prior to the scheduled startup draft. Any team that fails to pay by this deadline will be removed from the league and replaced with a new owner.
+
+In subsequent seasons, entry fees will be non-refundable to preserve the integrity and competitiveness of the league. Managers are encouraged to carefully consider their commitment before paying their fee for the season.
 
 ___
 
@@ -40,8 +54,11 @@ The intention is to have 12 franchises, but as each year may be variable the str
 
 ___
 
-# Roster
-Each team will have a maximum of 25 active players. Teams shall have no more than 3 quarterbacks, but there will be no other restrictions. 4 IR slots will be available, but managers will be required to monitor their players status and activate when necessary within a timely fashion to ensure the IR slots aren't used as extra active player storage.
+# Roster @
+
+Each team will have a maximum of 25 active players. Teams are allowed no more than three quarterbacks, but there are no restrictions on other positions. Four injured reserve (IR) slots will be available for use, and managers are responsible for monitoring player statuses. Players must be activated from the IR slots within two weeks once they are no longer tagged IR, to prevent these slots from being used as extra active player storage. 
+
+To accommodate the rookie draft, teams will receive four additional roster slots during the offseason immediately before the rookie draft. These slots will increase the roster size temporarily, but rosters must be trimmed back to the 25-player limit by the Wednesday before Week 1 of the NFL regular season.
 
 ___
 
@@ -123,6 +140,11 @@ Losers bracket will be same as the playoff bracket, with the 7th through 12th se
 
 ___
 
+# Ranking
+Rankings are split between overall rankings and playoff-specific rankings in their division. All division leaders will make the playoffs. Division rank will be based solely off division win/loss. The division leader with a better conference win/loss will be awarded the #1 seed for the conference, any ties will be broken by the [Standard Ranking Tiebreaker](#standard-ranking-tiebreaker).
+
+___
+
 # Standard Ranking Tiebreaker
 Ranking ties shall be decided based on the following, in order:
 - Overall Win/Loss record
@@ -133,32 +155,47 @@ Ranking ties shall be decided based on the following, in order:
 
 ___
 
-# Waivers
-Blind bidding waivers will run year-round with separate in-season and off-season Free Agent Acquisition Budget(FAAB). From the start of preseason, to the first Wednesday after the Super Bowl(note: not the fantasy championship), each franchise will have $1000 total FAAB to spend bidding on players in the waiver wire.
+# Waivers @
 
-In-season waivers will run Sunday, Monday, Wednesday, Thursday, Friday, and Saturday at 11:00am *EST*.
+The league will operate with blind bidding waivers, which will run year-round and utilize separate in-season and off-season Free Agent Acquisition Budgets (FAAB). Waivers are designed to ensure all teams have a fair chance to acquire free agents while encouraging strategic management of FAAB resources.
 
-During the off-season(Beginning the first Wednesday after the SB), all franchises will be reset to $200 of FAAB and waivers will only process once a week on Wednesdays at 11:00am *EST*.
+During the **in-season period**, which begins at the start of the preseason and ends on the first Wednesday after the Super Bowl (note: not the fantasy championship), each franchise will have $1,000 in FAAB. This budget can be used to bid on players available on the waiver wire. Waivers will process daily at 11:00 AM *EST*, except on Mondays and Tuesdays.
 
-In the event that two franchises submit an equal bid on a free agent, the team which submitted their bid first will win the tie. 
+The **off-season period** begins on the first Wednesday following the Super Bowl. At this point, all franchises’ FAAB budgets will reset to $200. Waivers during the off-season will also process daily at 11:00 AM *EST*, except on Mondays and Tuesdays.
 
-___
+Unused FAAB will not roll over between the in-season and off-season periods. Each period's budget must be used or forfeited when the period ends.
 
-# Trades
-Managers may trade players or draft picks at any time of year except during playoffs. Trading is blocked starting Wednesday at 11:00am *EST* before week 14 up until Tuesday at 11:00am *EST* after the conclusion of week 16.
+FAAB is fully tradeable during both the in-season and off-season periods, allowing franchises to strategically manage their resources in trades alongside players or draft picks.
 
-Trades will process immediately upon acceptance. Except in the case of collusion, all trades are final, no takebacksies. Players outplaying or underplaying projections is not a valid reason to undo a trade, nor is being finessed. 
-
-If trading collusion is suspected, please report it to the commissioner. The commissioner will investigate trades and apply actions as necessary. 
-
-Trades involving future draft picks shall not be permitted unless the dues for the seasons in question have been paid in advance by both franchises.
-
-If a trade was offered or accepted in error, the manager making the error must notify the commissioner and the manager of the other team immediately (i.e. within 5 minutes of the trade's acceptance) to request that the trade be voided. Trades will only be revoked because of legitimate manager error that is reported in a timely manner; managers may not request that a trade be voided due to buyer’s remorse, seller’s remorse or failure to perform due diligence before proposing or accepting a trade. The Commissioner reserves the right to allow a trade to stand if a manager's claim of error is not deemed to be credible.
+In the event that two franchises submit equal bids for the same free agent, Sleeper’s default waiver-wire tie-breaker settings for FAAB will be used to resolve the tie.
 
 ___
 
-# Payouts
-The final structure is subject to change based on participants. Basically 3&4 get their fee back, 2 gets double their fee and the champ gets $400.
+# Trades @
+
+Managers may trade players or draft picks at any time of year, except during the playoffs. Trading will be blocked from **Wednesday at 11:00 AM EST before Week 14** until **Wednesday at 11:00 AM EST following the conclusion of the playoffs**.
+
+Trades will process immediately upon acceptance. Except in cases of proven collusion, all trades are final—no exceptions. Players overperforming or underperforming projections is not a valid reason to undo a trade, nor is regret over being outmaneuvered in negotiations.
+
+If collusion is suspected, managers should report the issue to the Commissioner. The Commissioner will investigate all reported trades and take appropriate action if necessary, ensuring the integrity of the league is maintained.
+
+## Trading Draft Picks
+
+Trades involving future draft picks are permitted under the following conditions:
+
+- Both teams involved must have prepaid their league dues for the seasons in question.
+- Draft picks beyond two seasons into the future cannot be traded.
+
+## Errors in Trades
+
+If a trade is offered or accepted in error, the manager responsible must notify both the Commissioner and the other team’s manager immediately. Trades will only be voided if the error is legitimate and reported in a timely manner.
+
+Errors include mistaken selections or miscommunications about trade terms. Trades will not be reversed for buyer’s remorse, seller’s remorse, or failure to perform due diligence. The Commissioner reserves the right to allow a trade to stand if a manager’s claim of error is deemed not credible or lacks sufficient evidence.
+
+___
+
+# Payouts @
+The payout structure is based on the league’s current number of participants and may be adjusted if the number of teams changes. The following table outlines the default payouts for a 12-team league:
 
 | Final Standing | Payout |
 | -------------- | ------ |
@@ -166,66 +203,114 @@ The final structure is subject to change based on participants. Basically 3&4 ge
 | 2              | $100   |
 | 3              | $50    |
 | 4              | $50    |
-| 5              | $0     |
-| 6              | $0     |
-| 7              | $0     |
-| 8              | $0     |
-| 9              | $0     |
-| 10             | $0     |
-| 11             | $0     |
-| 12             | $0     |
+| 5-12           | $0     |
 | \-             | $600   |
 
-___
+The total prize pool for the league is $600, distributed as shown above.
 
-# Startup Draft
-This will only be required for the first season. The initial draft will operate just like a normal fantasy draft would, with a random snake draft order. This will take place shortly after the NFL draft, with all players included in the draft pool including rookies. 
+### Notes:
 
-___
-
-# Annual Rookie Draft
-The rookie draft occur every year after the NFL draft. Teams will have draft positions according to their finishing positions from the previous year, but for the 2025-2026 season this won't be necessary. The draft order will be as follows:
-
-
+- The 3rd and 4th place finishers receive their entry fee back.
+- The 2nd place finisher earns double their entry fee.
+- The champion receives the largest payout, totaling $400.
+- Adjustments to this structure will be made if league size changes.
 
 ___
 
-# Rule Changes
-The guidelines for rule changes are split into In Season, and Out of Season, based on whether they change the competitive balance of the league. An In Season rule change may be an unforeseen situation or consequence of a rule that should be changed, in order to keep things fair for all franchises. This could be a scoring settings change, or a waiver issue, or really anything that fucks over an undeserving minority of the league. An Out of Season rule change are bigger rule changes such as roster size expansion or playoff seed changes.
-## In Season rule changes
-All In Season rule changes are at the discretion of the Commissioner. If you feel that an immediate rule change is in order, please contact the Commissioner promptly and explain your reasoning. If a rule change is required immediately/retroactively, then it may be done as such, but for any rule changes brought up during the season a 1 week waiting period *may* be used to ensure that nobody is able to gain an advantage using a rule change. These will be judged on a case-by-case basis, and league input may be called for.
-## Out of Season rule changes
-Out of Season rule changes will be held to a league vote and must achieve a 2/3 vote to be successful. These changes must be presented to the Commissioner to be held for an official vote. These changes may have to be made over longer time periods, and how these are implemented is ultimately up to the Commissioner. All valid rule changes within reason are acceptable to be voted on, so as long as a rule change is successfully voted for then it shall be done; exact implementation is up to the Commissioner. 
+# Startup Draft @
+
+The startup draft will only occur in the league's inaugural season. It will follow a standard snake draft format, with the draft order determined randomly using any reputable online tool. The draft will take place shortly after the NFL Draft, and the player pool will include all eligible players, including rookies.
+
+This draft will be conducted as a **long draft**, allowing owners up to 6 hours to make their selections. The long draft format is designed to accommodate owners in different time zones and with varying schedules, ensuring everyone has an equal opportunity to participate. The draft clock will pause overnight, from 10:00 PM to 8:00 AM EST. During this time, owners may still make their picks, but the timer will not count down. Owners are strongly encouraged to set pre-draft queues to facilitate quicker selections, especially if they already know their preferred picks.
+
+All owners are expected to monitor the draft closely and make their picks as quickly as possible to avoid unnecessary delays. If an owner’s time limit expires during active hours, their pick will be made automatically. The automatic selection will prioritize any players in the owner's queue; if no queue exists, the system will select the highest-ranked available player based on CPU rankings.
 
 ___
 
-# Orphan Teams
-Franchise owners can retire from the league in good standing as long as their announce their retirement prior to the end of week 17. Upon announcement of a manager’s retirement, a replacement owner will be sought and they will be responsible for the upcoming season’s league fee if it has not already been paid by the retiring manager. Once an owner announces their retirement, they may not make any trades for the remainder of the season. A retirement announcement is irrevocable, but a manager who retires in good standing may be considered for reinstatement.
+# Annual Rookie Draft @
 
-Aside from retirement, orphan teams can be created through the following circumstances:
+A four round rookie draft will occur annually after the conclusion of the NFL Draft. The draft order will be determined by the inverse of the previous season's final standings, with the team finishing last receiving the first overall pick and the league champion selecting last.
 
-- Quitting manager: 
-If an owner publicly declares they are quitting the league, the team is immediately classified as an orphan team and the Commissioner will assume control of the team until a replacement owner is found. Public, written "I quit" declarations are permanent and irrevocable; quitting managers are permanently barred from seeking reinstatement to the league.
+The rookie draft will be conducted as a **long draft**, similar to the startup draft format. Owners will have up to 6 hours to make their selections, with the draft clock pausing overnight from 10:00 PM to 8:00 AM EST. During this pause, owners may still make their picks, but the timer will not count down. The long draft format ensures that owners in different time zones and with varying schedules can participate equally.
 
-- Abandoning manager:
-A team is considered abandoned during the season if a manager fails to set a lineup for 2 consecutive games and a team is considered abandoned during the offseason if the manager fails to attend the rookie draft.
+Owners are encouraged to set pre-draft queues to expedite the process, particularly if they have a clear idea of their desired picks. If an owner’s time limit expires during active hours, their selection will be made automatically. Priority will be given to any players in the owner's queue; if no queue exists, the highest-ranked available player based on CPU rankings will be selected.
 
-- Removal of a manager or managers for: 
-    - Failure to pay league fees by the annual deadline.
-    - Cheating or anti-competitive conduct.
-    - Collusion between teams.
-    - Offering and/or accepting bribes (i.e. real-life money or any other real-life consideration) as an incentive to complete league trades, league transactions or influence league activity of any kind.
-    - Conduct or transactions detrimental to the league.
-    - Repeated failure to adhere to league rules or abide by Commissioner rulings.
+To accommodate the rookie draft, the league-wide [roster size limit](#roster) will temporarily increase to allow for the addition of up to four draft picks per team. This increase will take effect immediately before the rookie draft begins and will revert to the standard 25-player limit before the start of the regular season. Owners must adjust their rosters to comply with this limit by the designated deadline to avoid penalties.
 
-If a team is orphaned during the season, the Commissioner will set that team’s starting lineup for the remainder of that season or appoint another manager to set the orphan team’s roster for the remainder of the season, until a new manager is found.
+Owners are responsible for notifying the Commissioner if they aren't able to participate in the rookie draft for any reason. Participation is important here; it can be rescheduled to accommodate. A missed rookie draft without notice is consider an abandoned and will become an [orphan team](#orphan-teams).
 
-Payouts won by a team orphaned during a regular season will be applied against future league fees for that team’s new manager. If the payout exceeds the annual league fees then the remainder will apply to the league payouts for the following year based on Commissioner discretion. 
+___
 
-Orphaned teams may not participate in the Championship playoff bracket. The next best alternative team will be chosen based on the [Standard Ranking Tiebreaker](#standard-ranking-tiebreaker).
+# Rule Changes @
+The process for rule changes is divided into **In-Season** and **Out-of-Season** categories based on their impact on the competitive balance of the league.
+
+In-Season Rule Changes address unforeseen situations or consequences of existing rules that require immediate attention to maintain fairness across all franchises. These could involve scoring settings adjustments, waiver disputes, or other issues that might unfairly disadvantage a minority of teams. Out-of-Season Rule Changes, on the other hand, involve larger structural adjustments, such as roster size changes or alterations to the playoff format.
+## In-Season Rule Changes
+
+In-season rule changes are managed at the discretion of the Commissioner. If you believe an immediate rule change is necessary, contact the Commissioner as soon as possible with a clear explanation of the issue and the proposed resolution. The Commissioner may implement rule changes retroactively or immediately in situations that demand urgent action to ensure fairness.
+
+In most cases, a one-week waiting period may be applied before implementing a rule change to prevent any team from gaining an unfair advantage. This waiting period is not mandatory and will depend on the specific circumstances. The Commissioner may also seek input from the league, ensuring that the solution is in the best interest of all franchises.
+
+## Out-of-Season Rule Changes
+
+Out-of-season rule changes are determined through a league vote, requiring a two-thirds majority for approval. To propose a rule change, a league member must present the idea to the Commissioner, who will organize an official vote. Once a rule change is approved, the Commissioner is responsible for overseeing its implementation. The timeline and specific details for enacting the change will be determined by the Commissioner to align with the league’s goals and structure.
+
+All *reasonable* rule changes are eligible for consideration. Once passed, these changes are enacted with the intent of improving the league’s long-term functionality.
+
+___
+
+# Orphan Teams @
+
+Franchise owners may retire from the league in good standing by announcing their retirement before the conclusion of **the playoffs in Week 17**. Upon announcing retirement, a replacement owner will be sought, and the incoming owner will be responsible for the upcoming season’s league fee if it has not already been paid by the retiring owner. Retiring owners are prohibited from making trades for the remainder of the season. Retirement announcements are irrevocable; however, managers retiring in good standing may be considered for reinstatement in the future.
+
+## Circumstances Creating Orphan Teams
+
+In addition to voluntary retirement, orphan teams may also arise under the following conditions:
+
+### Quitting Manager
+
+If an owner publicly declares they are quitting the league, their team is immediately classified as an orphan team. The Commissioner will assume control of the team until a replacement owner is found. Written public declarations of quitting, such as “I quit,” are permanent and irrevocable. Quitting managers are permanently barred from reinstatement to the league.
+
+### Abandoning Manager
+
+A team is considered abandoned under the following conditions:
+
+- **In-Season:** The manager fails to set a valid lineup for **two consecutive games.**
+- **Off-Season:** The manager fails to attend the rookie draft without prior notice or valid justification.
+
+Managers unable to participate in the rookie draft must notify the Commissioner in advance so the draft can be rescheduled to accommodate all owners.
+
+### Manager Removal
+
+Managers *may* be removed from the league under certain circumstances, including but not limited to:
+
+- Failure to pay league fees by the annual deadline.
+- Cheating or anti-competitive conduct.
+- Collusion between teams.
+- Offering or accepting bribes (e.g., real-life money or other considerations) to influence trades, transactions, or league activity.
+- Conduct or transactions detrimental to the league.
+- Repeated violations of league rules or refusal to abide by Commissioner rulings.
+
+The Commissioner will exercise discretion in determining whether removal is necessary, and removal is not guaranteed in any particular situation.
+
+## Managing Orphan Teams
+
+If a team becomes orphaned during the season, the Commissioner will manage the team’s starting lineup for the remainder of the season or appoint another manager to do so until a replacement owner is found.
+
+Orphaned teams are **ineligible** to participate in the Championship playoff bracket. In such cases, the next best alternative team will be selected based on the [Standard Ranking Tiebreaker](#standard-ranking-tiebreaker).
+
+## Financial Considerations for Orphan Teams
+
+Entry fees from an orphaned team will remain tied to that franchise and will apply to future seasons for the new owner. This ensures continuity and fairness while maintaining the league's financial structure.
 
 ___
 
 # Anticompetitive Conduct
 Anticompetitive conduct is defined as owners engaging in conduct that prevents, reduces or otherwise negatively affects the natural competition and well-being of the league. Anticompetitive actions are strictly prohibited, and violations of these rules shall subject an owner to Commissioner's sanctions, which may include immediate removal from the league.
 - **Anticompetitive Trades**: owners may not make trades that result in worsening their own team in order to stock another team playing a third team they want or need to lose. Owners may trade away players for draft picks, but they may not make trades if they do not intend to return to the league for the next season. If an owner does not intend to return to the league, they should announce their retirement publicly and play out the season using their best efforts; the incoming replacement owner should be permitted to inherit an intact team and make their own trades and roster decisions. The Commissioner may retroactively void a trade if there is clear and convincing evidence that the trade was prohibited on anti-competitive grounds that were not apparent at the time of the trade.
+
+___
+
+# Proposed Rules
+These are some of my ideas for rules that haven't yet made the cut. I genuinely don't know if these should be implemented or not, they're just ideas.
+- Getting rid of kickers for another FLEX or possibly super FLEX - Kickers are the most bogus position in fantasy, they could be replaced by anything else.
