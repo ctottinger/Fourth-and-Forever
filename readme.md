@@ -1,3 +1,7 @@
+<p>
+<img src="https://raw.githubusercontent.com/ctottinger/Fourth-and-Forever/refs/heads/main/Fourth%20and%20Forever.webp">
+</p>
+
 # Fourth and Forever - 2025-2026 season rules
 
 # Contents
