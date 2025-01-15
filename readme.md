@@ -1,17 +1,16 @@
 # Fourth and Forever - 2025-2026 season rules
-*Subject to change if the Sleeper app doesn't allow for every rule. Scheduling, divisions and payout info is based on participation.*
 
-# Contents @
+# Contents
 - [Commissioners Overview](#commissioners-overview)
+- [Important Dates](#important-dates)
 - [Entry Fee](#entry-fee)
-- [Teams](#teams)
 - [Roster](#roster)
 - [Starting Lineup](#starting-lineup)
 - [Scoring](#scoring)
 - [Schedule And Divisions](#schedule-and-divisions)
 - [Playoffs](#playoffs)
 - [Consolation Bracket](#consolation-bracket)
-- [Standard Ranking Tiebreaker](#standard-ranking-tiebreaker)
+- [Rankings](#rankings)
 - [Waivers](#waivers)
 - [Trades](#trades)
 - [Payouts](#payouts)
@@ -19,42 +18,52 @@
 - [Annual Rookie Draft](#annual-rookie-draft)
 - [Rule Changes](#rule-changes)
 - [Orphan Teams](#orphan-teams)
-- Managerial stuff(collusion, commish sanctions...)
-- Release Notes
+- [Anticompetitive Conduct](#anticompetitive-coduct)
+- [Release Notes](#release-notes)
 
 ---
 
 # Commissioners Overview
-Overview goes here... going over general stuff with a brief overview of important rules with links to read more.
+Welcome to the **Fourth and Forever**, a dynasty fantasy football league. This section provides a quick summary of the league's key rules and expectations to ensure a smooth and enjoyable experience for all managers. For detailed information, refer to the linked sections. All rules are subject to change before the first season. The Sleeper app may not allow for all rules either automatically or manually. 
 
-___
+### Key Responsibilities
 
-# Important Dates
-- *TBD* Entry fees final due date
-- *TBD* Startup Draft
-- *TBD-wed before wk 1* Rosters shrink back to 25 slots after rookie draft
-- *TBD* FAAB will reset to $1000 for regular season
-- *Wednesday before wk 14* Trading will lock before playoffs
-- *TBD-before playoffs end* Retirement notification period end
-- *Wednesday following playoffs* Trading will unlock
-- *Wednesday after SB* FAAB will reset to $200 for off-season
+The Commissioner oversees:
+
+- Ensuring all league rules are followed and disputes are resolved fairly.
+- Managing league activities, including the draft, trades, waivers, and playoff seeding.
+- Addressing any issues related to orphan teams or anticompetitive conduct.
+
+### Key Rules Summary
+
+1. **Entry Fees**: $50 for the 2025-2026 season, increasing to $100 for 2026-2027. Fees are non-refundable and must be paid in full before participating in any draft. [Learn more in the Entry Fee section.](#entry-fee)
+2. **Roster Limits**: 25 active players during the season, with temporary increases for the rookie draft. IR slots must not be misused. [Learn more in the Roster section.](#roster)
+3. **Trades and Waivers**: Blind bidding FAAB waivers operate year-round. Waivers process daily at **11:00 AM EST**, except on Mondays and Tuesdays. Players, FAAB, and draft picks up to two years in the future are tradeable. Trades process immediately, and collusion is strictly prohibited. Learn more about [Waivers](#waivers) or [Trades](#trades).
+4. **Playoff Format**: A 6-team playoff format with two byes available. Win your division to qualify for the playoffs. Be the best division winner in your conference to earn a bye. The next two best non-division winners earn at-large spots. [Learn more in the Playoffs section.](#playoffs)
+5. **Anticompetitive Conduct**: Managers must maintain competitive integrity by fielding valid lineups and avoiding disruptive behaviors. [Learn more in the Anticompetitive Conduct section.](#anticompetitive-coduct)
+
+### Important Dates
+| Date                           | Event                                                 |
+| ------------------------------ | ----------------------------------------------------- |
+| *TBD, before startup draft*    | Entry fees final due date                             |
+| *TBD, after NFL Draft*         | Startup draft                                         |
+| *TBD, before preseason*        | FAAB reset to $1000 & rosters shrink back to 25 slots |
+| *TBD, week 13-ish*             | Trading will be locked                                |
+| Before playoffs end in week 17 | Retirement notification deadline                      |
+| Wednesday after playoffs       | Trading will unlocked                                 |
+| Wednesday after SB             | FAAB will reset to $200 for off-season                |
+
 
 ___
 
 # Entry Fee
-The entry fee for the 2025-2026 season will be **$50**, with the intention of increasing the fee in future seasons. All competing teams must pay their entry fee in full prior to the scheduled startup draft. Any team that fails to pay by this deadline will be removed from the league and replaced with a new owner.
+The entry fee for the 2025-2026 season will be **$50**, increasing to $100 beginning for the 2026-2027 season. All competing teams must pay their entry fee in full prior to the scheduled startup draft, and annual rookie drafts in the future. Any team that fails to pay by this deadline will be removed from the league and replaced with a new owner.
 
-In subsequent seasons, entry fees will be non-refundable to preserve the integrity and competitiveness of the league. Managers are encouraged to carefully consider their commitment before paying their fee for the season.
-
-___
-
-# Teams
-The intention is to have 12 franchises, but as each year may be variable the structure will change. Franchises competing this season:
-- *Competing teams finalized later*
+In this league, all entry fees are non-refundable. To trade future draft picks, both teams involved in the trade must prepay the entry fees for the season in question. This policy ensures that all managers remain committed to the league and prevents disruptions caused by unpaid dues.
 
 ___
 
-# Roster @
+# Roster
 
 Each team will have a maximum of 25 active players. Teams are allowed no more than three quarterbacks, but there are no restrictions on other positions. Four injured reserve (IR) slots will be available for use, and managers are responsible for monitoring player statuses. Players must be activated from the IR slots within two weeks once they are no longer tagged IR, to prevent these slots from being used as extra active player storage. 
 
@@ -63,99 +72,173 @@ To accommodate the rookie draft, teams will receive four additional roster slots
 ___
 
 # Starting Lineup
-Players will be locked at their respective game times. Each week managers shall start the following:
-- 1 QB
-- 2 RBs
-- 2 WRs
-- 1 TE
-- 2 FLEXs
-- 1 Defense/Special Teams
-- 1 Kicker
+Players will lock at the start of their respective game times each week. Managers are required to set a starting lineup consisting of the following positions:
 
-*I've decided to force managers to start and keep a full roster, to prevent a team that's ahead from benching their remaining players. I've seen debates about this and understand both sides but I think this will help both avoid drama and make games more competitive - let me know your thoughts if you disagree.*
+- 1 Quarterback
+- 2 Running Backs
+- 2 Wide Receivers
+- 1 Tight End
+- 2 Flex positions
+- 1 Super Flex position
+
+The Flex positions can include any combination of RBs, WRs, or TEs, while the Super Flex position may additionally include a QB. This league will not including kickers or Special Teams/Team Defense.
+
+Managers are required to play a full lineup each week. Benching players to ensure a win is not allowed.
 
 ___
 
 # Scoring
-See scoring settings within Sleeper.
+This league will use **full PPR (points per reception)** scoring. For detailed scoring settings beyond the highlights provided below, refer to the league's settings on Sleeper.
+
+## Passing
+| Event           | Points for                                      |
+| --------------- | ----------------------------------------------- |
+| Passing yards   | 1 point every 25 yards, or 0.04 points per yard |
+| Passing TD      | 4 points                                        |
+| 2-pt conversion | 2 points                                        |
+| INT thrown      | -2 points                                       |
+| 50+ TD pass     | 1 point                                         | 
+
+## Rushing
+
+| Event            | Points for                                     |
+| ---------------- | ---------------------------------------------- |
+| Rushing yards    | 1 point every 10 yards, or 0.1 points per yard |
+| Rushing TD       | 6 points                                       |
+| Rushing 1st down | 1 point                                        |
+| 2-pt conversion  | 2 points                                       |
+| 50+ TD rush      | 1 point                                        | 
+
+## Receiving
+
+| Event            | Points for                                     |
+| ---------------- | ---------------------------------------------- |
+| Each reception   | 1 point every 10 yards, or 0.1 points per yard |
+| Receiving TD     | 6 points                                       |
+| 2-pt conversion  | 2 points                                       |
+| 50+ TD reception | 1 point                                        | 
+
+## Misc.
+
+| Event                          | Points for |
+| ------------------------------ | ---------- |
+| Fumble lost                    | -2 points  |
+| 200+ rushing + receiving yards | 2 points   |
+| 400+ passing yards             | 2 points   | 
+
+
+	The Rushing 1st Down bonus is included to reward workhorse running backs, ensuring their contributions to a team’s success are valued even if they are not frequently utilized in goal-line situations. 
 
 ___
 
 # Schedule And Divisions
-Franchises will be split into two conferences with two divisions, which will be filled randomly with 3 teams each(franchise count allowing). 
+Franchises will be divided into two conferences, each containing two divisions. Divisions will be filled randomly, with three teams per division, assuming the franchise count allows.
 
-- North Conference
-    - East Division
-    - West Division
-- South Conference
-    - East Division
-    - West Division
+## Conferences and Divisions
 
-Each franchise will play 14 regular season games as follows:
+- **North Conference**
+    - Northeast Division
+    - Northwest Division
+- **South Conference**
+    - Southeast Division
+    - Southwest Division
 
-| # of games | Opponent                                                   | Total Games |
-| ---------- | ---------------------------------------------------------- | ----------- |
-| 2          | Each divisional opponent                                   | 6           |
-| 1          | In conference rival game(randomly picked if no rival exist | 1           |
-| 1          | Out of conference rival game(same as above)                | 1           |
-| 1          | Each remaining conference opponent                         | 3           |
-| 1          | Against 3 random out of conference opponents               | 3           |
-| -          | -                                                          | 14          |
+## Regular Season Schedule
+
+Each franchise will play a total of 14 regular season games. The schedule is structured as follows:
+
+| # of games | Opponent                                              | Total Games |
+| ---------- | ----------------------------------------------------- | ----------- |
+| 2          | Each divisional opponent                              | 6           |
+| 2          | Random out-of-conference opponents(random every year) | 2           |
+| 1          | Each remaining conference opponent                    | 3           |
+| 1          | Against 3 random out of conference opponents          | 3           |
+| -          | -                                                     | 14          |
+
+	Anytime something is to be "random" the Commissioner will use an online tool to draw random teams. 
 
 ___
 
 # Playoffs
-I've decided on a 6 team playoff that will be better suited for more franchises joining. 
-- Both conference leaders will occupy seeds 1 and 2, seeded based on conference record then [Standard Ranking Tiebreaker](#Standard Ranking Tiebreaker).
-- Both remaining division leaders will occupy seeds 3 and 4, seeded based on conference record then [Standard Ranking Tiebreaker](#Standard Ranking Tiebreaker).
-- Seed 5 and 6 will be occupied by the two at-large teams for each conference, seeded based on *overall* record then [Standard Ranking Tiebreaker](#Standard Ranking Tiebreaker).
+The league will feature a 6-team playoff format, designed to accommodate potential future expansion. This structure ensures competitiveness while providing opportunities for top-performing teams across both conferences.
 
-Conference leaders will be awarded a bye week. The first week of playoffs(Week 15) will be as follows:
+## Playoff Seeding
+- **Conference Champions:** The better division leader in each conference will be crowned the conference champion. Conference champions will receive the #1 and #2 seeds, with their order determined by overall record, conference record, then total Points For (PF).
+- **Division Champions:** The lesser division leader in each conference will be awarded the division champion spot. These teams will receive the #3 and #4 seeds, ranked by overall record, conference record, and total Points For (PF).
+- **At-Large Bids:** Each conference will award one at-large playoff spot to the best remaining team. At-large teams will be determined by *overall record*, conference record, and total Points For (PF).
 
-| Home                        | vs. | Away                        |
-| --------------------------- | --- | --------------------------- |
-| #1(Higher conference champ) |     | Bye                         |
-| #2(Lower conference champ)  |     | Bye                         |
-| #3(Higher ranked div champ) |     | #6(Lower ranked at-large)   |
-| #4(Lower ranked div champ   |     | #5(Higher ranked at-large)  |
+| Seed | Team                                     |
+| ---- | ---------------------------------------- |
+| 1    | Higher ranked conference champ           |
+| 2    | Lower ranked conference champ            |
+| 3    | Next highest ranked division champ       |
+| 4    | Last ranked division champ               |
+| 5    | Next best at-large team for conference A |
+| 6    | Next best at-large team for conference B | 
 
-The second week(week 16) of playoffs:
 
-| Home    | vs. | Away                |
-| ------- | --- | ------------------- |
-| #1 seed |     | Winner of #4 vs. #5 |
-| #2 seed |     | Winner of #3 vs. #6 |
+## Playoff Schedule
+The top two seeds in the playoffs (conference champions) will receive a bye week in the first round. The schedule is as follows:
 
-The championship will be played in week 17 with the two remaining teams.
+**First Week of Playoffs (Week 15):**
 
-*Will likely be a standard 4-team bracket if fewer than 12 franchises participates.*
+| Home | Away |
+| ---- | ---- |
+| #1   | Bye  |
+| #2   | Bye  |
+| #3   | #6   |
+| #4   | #5   |
+
+**Second Week of Playoffs (Week 16):**
+
+| Home | Away                |
+| ---- | ------------------- |
+| #1   | Winner of #4 vs. #5 |
+| #2   | Winner of #3 vs. #6 |
+
+The wildcard round losers will probably be sitting out the rest of the season, unless the Sleeper app allows for reintroducing them into the consolation bracket.
+
+**Championship (Week 17):**  
+The two remaining teams will face off in the championship game. Additionally, the #3 and #4 seeds will play in a runoff game to determine their rookie draft pick positions, with the winner receiving the x.09 pick and the loser receiving the x.10 pick.
 
 ___
 
 # Consolation Bracket
 
-Losers bracket will be same as the playoff bracket, with the 7th through 12th seeds. Instead of seeding based on conference or division standing, the losers bracket will only be seeded based on overall ranking via the [Standard Ranking Tiebreaker](#standard-ranking-tiebreaker). The final winner will get the following 1.01 rookie draft pick, with the rest being inverse of their final rankings.
+The consolation bracket will mimic the playoff bracket, featuring the 7th through 12th seeds. Seeding for the consolation bracket will be determined based on overall record, with total Points For (PF) used as the tiebreaker if necessary. Unlike the playoff bracket, conference or division standings will not factor into the seeding process. The exact format of this bracket will be up to the Sleeper app ultimately.
 
-*This may need to be revisited.*
-
-___
-
-# Ranking
-Rankings are split between overall rankings and playoff-specific rankings in their division. All division leaders will make the playoffs. Division rank will be based solely off division win/loss. The division leader with a better conference win/loss will be awarded the #1 seed for the conference, any ties will be broken by the [Standard Ranking Tiebreaker](#standard-ranking-tiebreaker).
+The consolation bracket exists purely for fun and will not have any impact on the draft order for the following season. It is intended to keep teams engaged while the championship bracket plays out.
 
 ___
 
-# Standard Ranking Tiebreaker
-Ranking ties shall be decided based on the following, in order:
-- Overall Win/Loss record
-- Head-to-Head record
-- Divisional Win/Loss record
-- Conference Win/Loss record
-- Total Points For.
+# Rankings
+Rankings will be compiled by the Commissioner and made publicly available each week, starting after Week 1. While overall rankings in the app(I'm not sure how they'll be displayed there yet) provide a useful overview of team performance, they are secondary to division and conference rankings for determining playoff qualification. Playoff spots will be awarded to all division leaders and two at-large teams, based on the following criteria:
+
+### Division Rankings
+
+- Rankings within each division will be determined by **division win/loss record**.
+- Ties will be broken in the following order:
+    1. Head-to-head record
+    2. Total Points For (PF)
+
+### Conference Leaders
+
+- Between the two division leaders in each conference, the conference leader will be determined by **overall win/loss record**.
+- Ties will be broken in the following order:
+    1. Conference record
+    2. Head-to-head record
+    3. Total Points For (PF)
+
+### At-Large Spots
+
+- At-large teams will be ranked based on **overall win/loss record**.
+- Ties will be broken in the following order:
+    1. Conference record
+    2. Total Points For (PF)
 
 ___
 
-# Waivers @
+# Waivers
 
 The league will operate with blind bidding waivers, which will run year-round and utilize separate in-season and off-season Free Agent Acquisition Budgets (FAAB). Waivers are designed to ensure all teams have a fair chance to acquire free agents while encouraging strategic management of FAAB resources.
 
@@ -171,7 +254,7 @@ In the event that two franchises submit equal bids for the same free agent, Slee
 
 ___
 
-# Trades @
+# Trades
 
 Managers may trade players or draft picks at any time of year, except during the playoffs. Trading will be blocked from **Wednesday at 11:00 AM EST before Week 14** until **Wednesday at 11:00 AM EST following the conclusion of the playoffs**.
 
@@ -194,7 +277,7 @@ Errors include mistaken selections or miscommunications about trade terms. Trade
 
 ___
 
-# Payouts @
+# Payouts
 The payout structure is based on the league’s current number of participants and may be adjusted if the number of teams changes. The following table outlines the default payouts for a 12-team league:
 
 | Final Standing | Payout |
@@ -217,7 +300,8 @@ The total prize pool for the league is $600, distributed as shown above.
 
 ___
 
-# Startup Draft @
+# Startup Draft
+### **Date conducted: TBD**
 
 The startup draft will only occur in the league's inaugural season. It will follow a standard snake draft format, with the draft order determined randomly using any reputable online tool. The draft will take place shortly after the NFL Draft, and the player pool will include all eligible players, including rookies.
 
@@ -227,9 +311,10 @@ All owners are expected to monitor the draft closely and make their picks as qui
 
 ___
 
-# Annual Rookie Draft @
+# Annual Rookie Draft
+### **Date conducted: TBD**
 
-A four round rookie draft will occur annually after the conclusion of the NFL Draft. The draft order will be determined by the inverse of the previous season's final standings, with the team finishing last receiving the first overall pick and the league champion selecting last.
+A four round rookie draft will occur annually after the conclusion of the NFL Draft. The draft order will be determined by the inverse of the previous seasons final regular season *overall* rankings. These will be ranked by overall record, then total Points For (PF). The winner of #3 vs #4 in the previous season will have the x.09, loser getting x.10. The champion will have the last pick, and the runner up will have the second last.
 
 The rookie draft will be conducted as a **long draft**, similar to the startup draft format. Owners will have up to 6 hours to make their selections, with the draft clock pausing overnight from 10:00 PM to 8:00 AM EST. During this pause, owners may still make their picks, but the timer will not count down. The long draft format ensures that owners in different time zones and with varying schedules can participate equally.
 
@@ -239,9 +324,28 @@ To accommodate the rookie draft, the league-wide [roster size limit](#roster) wi
 
 Owners are responsible for notifying the Commissioner if they aren't able to participate in the rookie draft for any reason. Participation is important here; it can be rescheduled to accommodate. A missed rookie draft without notice is consider an abandoned and will become an [orphan team](#orphan-teams).
 
+## Draft Order Template
+The "rankings" here will be determined by the overall record, then total regular season Points For (PF).
+
+| Pick | Seed               |
+| ---- | ------------------ |
+| x.01 | #12 ranked team    |
+| x.02 | #11 ranked team    |
+| x.03 | #10 ranked team    |
+| x.04 | #9 ranked team     |
+| x.05 | #8 ranked team     |
+| x.06 | #7 ranked team     |
+| x.07 | #6 ranked team     |
+| x.08 | #5 ranked team     | 
+| x.09 | Winner of #3 vs #4 |
+| x.10 | Loser of #3 vs #4  |
+| x.11 | Runner up          |
+| x.12 | Current champion   |
+
+
 ___
 
-# Rule Changes @
+# Rule Changes
 The process for rule changes is divided into **In-Season** and **Out-of-Season** categories based on their impact on the competitive balance of the league.
 
 In-Season Rule Changes address unforeseen situations or consequences of existing rules that require immediate attention to maintain fairness across all franchises. These could involve scoring settings adjustments, waiver disputes, or other issues that might unfairly disadvantage a minority of teams. Out-of-Season Rule Changes, on the other hand, involve larger structural adjustments, such as roster size changes or alterations to the playoff format.
@@ -259,7 +363,7 @@ All *reasonable* rule changes are eligible for consideration. Once passed, these
 
 ___
 
-# Orphan Teams @
+# Orphan Teams
 
 Franchise owners may retire from the league in good standing by announcing their retirement before the conclusion of **the playoffs in Week 17**. Upon announcing retirement, a replacement owner will be sought, and the incoming owner will be responsible for the upcoming season’s league fee if it has not already been paid by the retiring owner. Retiring owners are prohibited from making trades for the remainder of the season. Retirement announcements are irrevocable; however, managers retiring in good standing may be considered for reinstatement in the future.
 
@@ -297,7 +401,7 @@ The Commissioner will exercise discretion in determining whether removal is nece
 
 If a team becomes orphaned during the season, the Commissioner will manage the team’s starting lineup for the remainder of the season or appoint another manager to do so until a replacement owner is found.
 
-Orphaned teams are **ineligible** to participate in the Championship playoff bracket. In such cases, the next best alternative team will be selected based on the [Standard Ranking Tiebreaker](#standard-ranking-tiebreaker).
+Orphaned teams are **ineligible** to participate in the Championship playoff bracket. In such cases, the next best alternative team will be selected based on the [Rankings](#rankings).
 
 ## Financial Considerations for Orphan Teams
 
@@ -306,11 +410,34 @@ Entry fees from an orphaned team will remain tied to that franchise and will app
 ___
 
 # Anticompetitive Conduct
-Anticompetitive conduct is defined as owners engaging in conduct that prevents, reduces or otherwise negatively affects the natural competition and well-being of the league. Anticompetitive actions are strictly prohibited, and violations of these rules shall subject an owner to Commissioner's sanctions, which may include immediate removal from the league.
-- **Anticompetitive Trades**: owners may not make trades that result in worsening their own team in order to stock another team playing a third team they want or need to lose. Owners may trade away players for draft picks, but they may not make trades if they do not intend to return to the league for the next season. If an owner does not intend to return to the league, they should announce their retirement publicly and play out the season using their best efforts; the incoming replacement owner should be permitted to inherit an intact team and make their own trades and roster decisions. The Commissioner may retroactively void a trade if there is clear and convincing evidence that the trade was prohibited on anti-competitive grounds that were not apparent at the time of the trade.
+Anticompetitive conduct is defined as any behavior by an owner that intentionally disrupts or diminishes the natural competition and integrity of the league. Such actions are strictly prohibited. The Commissioner will address violations on a case-by-case basis and may codify further actions or rules as necessary.
+
+### Prohibited Anticompetitive Actions
+
+- **Anticompetitive Trades**:  
+    Owners may not engage in trades that intentionally worsen their own team to benefit another team, particularly when the intent is to manipulate the outcome of a matchup involving a third party. While trading players for draft picks is allowed, owners may not trade players if they do not intend to return to the league for the following season. The Commissioner reserves the right to retroactively void a trade if there is clear and convincing evidence that it was conducted on anticompetitive grounds not apparent at the time.
+    
+- **Collusion**:  
+    Collusion occurs when two or more managers coordinate to influence league outcomes, such as game results, draft standings, or player availability. Examples of collusion include, but are not limited to:
+    
+    - Arranging trades to consolidate stronger players on one team.
+    - Agreeing to share payouts or rewards through coordinated actions.
+    - Trading a player with the condition that they be traded back.  
+        Any unsportsmanlike conduct between managers that undermines league integrity is considered collusion and is prohibited.
+- **Dumping**:  
+    Managers who cut obviously valuable players without valid strategic reasoning are subject to sanctions by the Commissioner. While dropping borderline players is normal, dumping obvious fantasy starters, large numbers of average players, or engaging in behavior intended to manipulate draft positions, make players unfairly available to others, or sabotage the league’s integrity is not allowed.
+    
+- **Competitive Indifference**:  
+    Managers must submit a valid starting lineup each week and replace inactive players who are injured, benched, suspended, or on their bye week. Failing to do so constitutes competitive indifference and violates league rules.
+    
+
+### Reporting Anticompetitive Conduct
+
+League members are encouraged to remain vigilant and report any suspected anticompetitive conduct to the Commissioner as soon as possible. Clear and prompt reporting allows for a timely investigation and resolution. When reporting, managers should provide as much detail and evidence as possible (e.g., screenshots, trade logs, or messages) to assist the Commissioner in determining whether a violation has occurred.
+
+Maintaining the integrity of the league is a shared responsibility, and active participation in identifying and addressing violations ensures a competitive and fair environment for all.
 
 ___
 
-# Proposed Rules
-These are some of my ideas for rules that haven't yet made the cut. I genuinely don't know if these should be implemented or not, they're just ideas.
-- Getting rid of kickers for another FLEX or possibly super FLEX - Kickers are the most bogus position in fantasy, they could be replaced by anything else.
+# Release Notes
+- *Date released* First draft of rules.
