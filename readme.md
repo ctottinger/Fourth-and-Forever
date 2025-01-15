@@ -18,7 +18,7 @@
 - [Annual Rookie Draft](#annual-rookie-draft)
 - [Rule Changes](#rule-changes)
 - [Orphan Teams](#orphan-teams)
-- [Anticompetitive Conduct](#anticompetitive-coduct)
+- [Anticompetitive Conduct](#anticompetitive-conduct)
 - [Release Notes](#release-notes)
 
 ---
@@ -409,7 +409,7 @@ Entry fees from an orphaned team will remain tied to that franchise and will app
 
 ___
 
-# Anticompetitive Conduct
+# Anticompetitive conduct
 Anticompetitive conduct is defined as any behavior by an owner that intentionally disrupts or diminishes the natural competition and integrity of the league. Such actions are strictly prohibited. The Commissioner will address violations on a case-by-case basis and may codify further actions or rules as necessary.
 
 ### Prohibited Anticompetitive Actions
