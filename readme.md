@@ -147,13 +147,12 @@ Franchises will be divided into two conferences, each containing two divisions. 
 
 Each franchise will play a total of 14 regular season games. The schedule is structured as follows:
 
-| # of games | Opponent                                              | Total Games |
-| ---------- | ----------------------------------------------------- | ----------- |
-| 2          | Each divisional opponent                              | 6           |
-| 2          | Random out-of-conference opponents(random every year) | 2           |
-| 1          | Each remaining conference opponent                    | 3           |
-| 1          | Against 3 random out of conference opponents          | 3           |
-| -          | -                                                     | 14          |
+| # of games | Opponent                                     | Total Games |
+| ---------- | -------------------------------------------- | ----------- |
+| 2          | Each divisional opponent                     | 6           |
+| 1          | Each remaining conference opponent           | 3           |
+| 1          | Against 3 random out of conference opponents | 5           |
+| -          | -                                            | 14          |
 
 	Anytime something is to be "random" the Commissioner will use an online tool to draw random teams. 
 
