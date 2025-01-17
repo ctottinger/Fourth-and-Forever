@@ -1,3 +1,0 @@
-- Regular season total Points For(PF) need to be taken note of before the playoffs begins.
-- Rosters need to be scanned every week for IR slot management.
-- Every Tuesday the rankings need to be compiled.
