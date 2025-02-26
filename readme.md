@@ -320,21 +320,22 @@ To accommodate the rookie draft, the league-wide [roster size limit](#roster) wi
 Owners are responsible for notifying the Commissioner if they aren't able to participate in the rookie draft for any reason. Participation is important here; it can be rescheduled to accommodate. A missed rookie draft without notice will be considered abandoned and will become an [orphan team](#orphan-teams).  
   
 ### Draft Order Template  
-The "rankings" here will be determined by the overall record, then total regular season Points For (PF).  
+The "rankings" here will be determined by the overall record, then total regular season Points For (PF).  These are subject to change slightly, such as if #3 vs. #4 doesn't happen in the postseason.
   
-| Pick | Seed               |  
-|------|--------------------|  
-| x.01 | #12 ranked team    |  
-| x.02 | #11 ranked team    |  
-| x.03 | #10 ranked team    |  
-| x.04 | #9 ranked team     |  
-| x.05 | #8 ranked team     |  
-| x.06 | #7 ranked team     |  
-| x.07 | #6 ranked team     |  
-| x.08 | #5 ranked team     | | x.09 | Winner of #3 vs #4 |  
-| x.10 | Loser of #3 vs #4  |  
-| x.11 | Runner up          |  
-| x.12 | Current champion   |  
+| Pick | Seed               |
+| ---- | ------------------ |
+| x.01 | #12 ranked team    |
+| x.02 | #11 ranked team    |
+| x.03 | #10 ranked team    |
+| x.04 | #9 ranked team     |
+| x.05 | #8 ranked team     |
+| x.06 | #7 ranked team     |
+| x.07 | #6 ranked team     |
+| x.08 | #5 ranked team     |
+| x.09 | Winner of #3 vs #4 |
+| x.10 | Loser of #3 vs #4  |
+| x.11 | Runner up          |
+| x.12 | Current champion   |
   
   
 ___  
