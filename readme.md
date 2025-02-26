@@ -149,6 +149,7 @@ Each franchise will play a total of 14 regular season games. The schedule is str
 | 1          | Against 4 random out of conference opponents not including rival | 4           |
 | 1          | Against rival. If none, one will be selected randomly            | 1           |
 | -          | -                                                                | 14          |
+
 Divisional, conference, and OOC games will be distributed as evenly as they can be. The last regular season matchup will most likely be divisional games.
 
     Anytime something is to be "random" the Commissioner will use an online tool to draw random teams.   
