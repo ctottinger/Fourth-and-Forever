@@ -78,7 +78,7 @@ Players will lock at the start of their respective game times each week. Manager
 - 2 Running Backs  
 - 2 Wide Receivers  
 - 1 Tight End  
-- 2 Flex positions  
+- 1 Flex position  
 - 1 Super Flex position  
   
 The Flex positions can include any combination of RBs, WRs, or TEs, while the Super Flex position may additionally include a QB. This league will not include kickers or Special Teams/Team Defense.  
