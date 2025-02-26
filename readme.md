@@ -43,15 +43,15 @@ The Commissioner oversees:
 5. **Anticompetitive Conduct**: Managers must maintain competitive integrity by fielding valid lineups and avoiding disruptive behaviors. [Learn more in the Anticompetitive Conduct section.](#anticompetitive-conduct)  
   
 ### Important Dates  
-| Date                           | Event                                                 |  
-|--------------------------------|-------------------------------------------------------|  
-| *TBD, before startup draft*    | Entry fees final due date                             |  
-| *TBD, after NFL Draft*         | Startup draft                                         |  
-| *TBD, before preseason*        | FAAB reset to $1000 & rosters shrink back to 25 slots |  
-| *TBD, week 13-ish*             | Trading will be locked                                |  
-| Before playoffs end in week 17 | Retirement notification deadline                      |  
-| Wednesday after playoffs       | Trading will unlocked                                 |  
-| Wednesday after SB             | FAAB will reset to $200 for off-season                |  
+| Date                           | Event                                                        |
+| ------------------------------ | ------------------------------------------------------------ |
+| *TBD, before startup draft*    | Entry fees final due date                                    |
+| *TBD, after NFL Draft*         | Startup draft                                                |
+| *TBD, after startup draft*     | Waivers open with offseason budget of $200                   |
+| August 28th 2025               | FAAB reset to $1000 for regular season                       |
+| *TBD, week 13-ish*             | Trading will be locked                                       |
+| Before playoffs end in week 17 | Retirement notification deadline                             |
+| TBD, shortly after SB          | Trading will unlocked, FAAB reset back to $200 for offseason |
   
   
 ___  
@@ -67,7 +67,7 @@ ___
   
 Each team will have a maximum of 25 active players. Teams are allowed no more than three quarterbacks, but there are no restrictions on other positions. Four injured reserve (IR) slots will be available for use, and managers are responsible for monitoring player statuses. Players must be activated from the IR slots within two weeks once they are no longer tagged IR, to prevent these slots from being used as extra active player storage.  
   
-To accommodate the rookie draft, teams will receive four additional roster slots during the off-season immediately before the rookie draft. These slots will increase the roster size temporarily, but rosters must be trimmed back to the 25-player limit by the Wednesday before Week 1 of the NFL regular season.  
+	To accommodate the rookie draft in future years, teams will receive four additional roster slots during the off-season immediately before the rookie draft. These slots will increase the roster size temporarily, but rosters must be trimmed back to the 25-player limit by the Wednesday before Week 1 of the NFL regular season.  
   
 ___  
   
@@ -142,13 +142,15 @@ Franchises will be divided into two conferences, each containing two divisions. 
   
 Each franchise will play a total of 14 regular season games. The schedule is structured as follows:  
   
-| # of games | Opponent                                     | Total Games |  
-|------------|----------------------------------------------|-------------|  
-| 2          | Each divisional opponent                     | 6           |  
-| 1          | Each remaining conference opponent           | 3           |  
-| 1          | Against 3 random out of conference opponents | 5           |  
-| -          | -                                            | 14          |  
-  
+| # of games | Opponent                                                         | Total Games |
+| ---------- | ---------------------------------------------------------------- | ----------- |
+| 2          | Each divisional opponent                                         | 6           |
+| 1          | Each remaining conference opponent                               | 3           |
+| 1          | Against 4 random out of conference opponents not including rival | 4           |
+| 1          | Against rival. If none, one will be selected randomly            | 1           |
+| -          | -                                                                | 14          |
+Divisional, conference, and OOC games will be distributed as evenly as they can be. The last regular season matchup will most likely be divisional games.
+
     Anytime something is to be "random" the Commissioner will use an online tool to draw random teams.   
 ___  
   
@@ -431,4 +433,4 @@ Maintaining the integrity of the league is a shared responsibility, and active p
 ___  
   
 ## Release Notes  
-- *Date released* First draft of rules.
+- *2/25/2025* - First draft of rules.
