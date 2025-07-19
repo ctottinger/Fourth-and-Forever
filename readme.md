@@ -24,23 +24,15 @@
 ---  
   
 ## Commissioners Overview  
-Welcome to the **Fourth and Forever**, a dynasty fantasy football league. This section provides a quick summary of the league's key rules and expectations to ensure a smooth and enjoyable experience for all managers. For detailed information, refer to the linked sections. All rules are subject to change before the first season. The Sleeper app may not allow for all rules either automatically or manually.  
-  
-### Key Responsibilities  
-  
-The Commissioner oversees:  
-  
-- Ensuring all league rules are followed and disputes are resolved fairly.  
-- Managing league activities, including the draft, trades, waivers, and playoff seeding.  
-- Addressing any issues related to orphan teams or anticompetitive conduct.  
+Welcome to **Fourth and Forever**, the dynasty fantasy football league. This overview is a brief summary of the key rules of the league, but for detailed information refer to the linked sections. Rules may change before the season.
   
 ### Key Rules Summary  
   
-1. **Entry Fees**: $50 for the 2025–2026 season, increasing to $100 for 2026–2027. Fees are non-refundable and must be paid in full before participating in any draft. [Learn more in the Entry Fee section.](#entry-fee)  
-2. **Roster Limits**: 25 active players during the season, with temporary increases for the rookie draft. IR slots must not be misused. [Learn more in the Roster section.](#roster)  
+1. **Entry Fees**: $50 for the 2025–2026 season, increasing to $100 for 2026–2027. Fees are non-refundable and must be paid in full before participating in any draft. [Entry Fee section.](#entry-fee)  
+2. **Roster Limits**: 25 active players during the season, with temporary increases for the rookie draft in the future. IR slots must not be misused for active player storage. [Roster section.](#roster) 
 3. **Trades and Waivers**: Blind bidding FAAB waivers operate year-round. Waivers process daily at **11:00 AM EST**, except on Mondays and Tuesdays. Players, FAAB, and draft picks up to two years in the future are tradeable. Trades will process immediately, and collusion is strictly prohibited. Learn more about [Waivers](#waivers) or [Trades](#trades).  
-4. **Playoff Format**: A 6-team playoff format with two byes available. Win your division to qualify for the playoffs. Be the best division winner in your conference to earn a bye. The next two best non-division winners earn at-large spots. [Learn more in the Playoffs section.](#playoffs)  
-5. **Anticompetitive Conduct**: Managers must maintain competitive integrity by fielding valid lineups and avoiding disruptive behaviors. [Learn more in the Anticompetitive Conduct section.](#anticompetitive-conduct)  
+4. **Playoff Format**: A 6-team playoff format with two byes available. Win your division to qualify for the playoffs. Be the best division winner in your conference to earn a bye. The next two best non-division winners earn at-large spots. [Playoffs section.](#playoffs)  
+5. **Anticompetitive Conduct**: Managers must maintain competitive integrity by fielding valid lineups and avoiding disruptive behaviors. [Anticompetitive Conduct section.](#anticompetitive-conduct)  
   
 ### Important Dates  
 | Date                           | Event                                                        |
@@ -57,17 +49,15 @@ The Commissioner oversees:
 ___  
   
 ## Entry Fee  
-The entry fee for the 2025–2026 season will be **$50**, increasing to $100 beginning for the 2026–2027 season. All competing teams must pay their entry fee in full prior to the scheduled startup draft, and annual rookie drafts in the future. Any team that fails to pay by this deadline will be removed from the league and replaced with a new owner.  
+The entry fee for the 2025–2026 season will be **$50**, increasing to $100 beginning for the 2026–2027 season. All competing teams must pay their entry fee in full prior to the scheduled startup draft, and annual rookie drafts in the future. Any team that fails to pay by this deadline will be removed from the league.
   
-In this league, all entry fees are non-refundable. To trade future draft picks, both teams involved in the trade must prepay the entry fees for the season in question. This policy ensures that all managers remain committed to the league and prevents disruptions caused by unpaid dues.  
+In this league, all entry fees are non-refundable. To trade future draft picks, both teams involved in the trade must prepay the entry fees for the season in question. This prevents team owners from trading all future picks and leaving the league, leaving a new owner to deal with the fallout.
   
 ___  
   
 ## Roster  
   
 Each team will have a maximum of 25 active players. Teams are allowed no more than three quarterbacks, but there are no restrictions on other positions. Four injured reserve (IR) slots will be available for use, and managers are responsible for monitoring player statuses. Players must be activated from the IR slots within two weeks once they are no longer tagged IR, to prevent these slots from being used as extra active player storage.  
-  
-	To accommodate the rookie draft in future years, teams will receive four additional roster slots during the off-season immediately before the rookie draft. These slots will increase the roster size temporarily, but rosters must be trimmed back to the 25-player limit by the Wednesday before Week 1 of the NFL regular season.  
   
 ___  
   
@@ -133,10 +123,10 @@ Franchises will be divided into two conferences, each containing two divisions. 
   
 - **North Conference**  
     - Northeast Division  
-  - Northwest Division  
+	- Northwest Division  
 - **South Conference**  
     - Southeast Division  
-  - Southwest Division  
+	- Southwest Division  
   
 ### Regular Season Schedule  
   
@@ -150,9 +140,7 @@ Each franchise will play a total of 14 regular season games. The schedule is str
 | 1          | Against rival. If none, one will be selected randomly            | 1           |
 | -          | -                                                                | 14          |
 
-Divisional, conference, and OOC games will be distributed as evenly as they can be. The last regular season matchup will most likely be divisional games.
-
-    Anytime something is to be "random" the Commissioner will use an online tool to draw random teams.   
+Divisional, conference, and OOC games will be distributed as evenly as they can be. The last regular season matchup will most likely *not* be a divisional game, because NFL teams are more likely to bench starting players that week.
 ___  
   
 ## Playoffs  
@@ -177,19 +165,19 @@ The top two seeds in the playoffs (conference champions) will receive a bye week
   
 **First Week of the Playoffs (Week 15): **  
   
-| Home | Away |  
-|------|------|  
-| #1   | Bye  |  
-| #2   | Bye  |  
-| #3   | #6   |  
-| #4   | #5   |  
+| Home | Away |
+| ---- | ---- |
+| #1   | Bye  |
+| #2   | Bye  |
+| #3   | #6   |
+| #4   | #5   |
   
 **Second Week of the Playoffs (Week 16): **  
   
-| Home | Away                |  
-|------|---------------------|  
-| #1   | Winner of #4 vs. #5 |  
-| #2   | Winner of #3 vs. #6 |  
+| Home | Away                |
+| ---- | ------------------- |
+| #1   | Winner of #4 vs. #5 |
+| #2   | Winner of #3 vs. #6 |
   
 The wildcard round losers will probably be sitting out the rest of the season, unless the Sleeper app allows for reintroducing them into the consolation bracket.  
   
@@ -200,9 +188,7 @@ ___
   
 ## Consolation Bracket  
   
-The consolation bracket will mimic the playoff bracket, featuring the 7th through 12th seeds. Seeding for the consolation bracket will be determined based on the overall record, with total Points For (PF) used as the tiebreaker if necessary. Unlike the playoff bracket, conference or division standings will not factor into the seeding process. The exact format of this bracket will be up to the Sleeper app ultimately.  
-  
-The consolation bracket exists purely for fun and will not have any impact on the draft order for the following season. It is intended to keep teams engaged while the championship bracket plays out.  
+I'm not familiar with how Sleeper handles consolation brackets, but there will be one if it allows. This bracket is purely for fun and bragging rights, so the rankings and format of it is irrelevant. This bracket will not have any impact on the draft order for the next season.
   
 ___  
   
@@ -251,11 +237,11 @@ ___
   
 ## Trades  
   
-Managers may trade players or draft picks at any time of year, except during the playoffs. Trading will be blocked from **Wednesday at 11:00 AM EST before Week 14** until **Wednesday at 11:00 AM EST following the conclusion of the playoffs**.  
+Managers may trade players or draft picks at any time of year, except during the playoffs. Trading will be blocked from **Wednesday at 11:00 AM EST before Week 14** until **Wednesday following the conclusion of the playoffs**.  
   
 Trades will process immediately upon acceptance. Except in cases of proven collusion, all trades are final—no exceptions. Players over-performing or underperforming projections is not a valid reason to undo a trade, nor is regret over being outmaneuvered in negotiations.  
   
-If collusion is suspected, managers should report the issue to the Commissioner. The Commissioner will investigate all reported trades and take appropriate action if necessary, ensuring the integrity of the league is maintained.  
+If collusion is suspected, managers should report the issue to the Commissioner. The Commissioner will investigate and take appropriate action if necessary.
   
 ### Trading Draft Picks  
   
@@ -268,21 +254,21 @@ Trades involving future draft picks are permitted under the following conditions
   
 If a trade is offered or accepted in error, the manager responsible must notify both the Commissioner and the other team’s manager immediately. Trades will only be voided if the error is legitimate and reported in a timely manner.  
   
-Errors include mistaken selections or miscommunications about trade terms. Trades will not be reversed for buyer’s remorse, seller’s remorse, or failure to perform due diligence. The Commissioner reserves the right to allow a trade to stand if a manager’s claim of error is deemed not credible or lacks sufficient evidence.  
+Errors include mistaken selections or miscommunications about trade terms. Trades will not be reversed for buyer’s remorse, seller’s remorse, or failure to perform due diligence. The Commissioner reserves the right to allow an "erroneous" trade to stand.
   
 ___  
   
 ## Payouts  
 The payout structure is based on the league’s current number of participants and may be adjusted if the number of teams changes. The following table outlines the default payouts for a 12-team league:  
   
-| Final Standing | Payout |  
-|----------------|--------|  
-| 1              | $400   |  
-| 2              | $100   |  
-| 3              | $50    |  
-| 4              | $50    |  
-| 5-12           | $0     |  
-| \-             | $600   |  
+| Final Standing | Payout |
+| -------------- | ------ |
+| 1              | $400   |
+| 2              | $100   |
+| 3              | $50    |
+| 4              | $50    |
+| 5-12           | $0     |
+| \-             | $600   |
   
 The total prize pool for the league is $600, distributed as shown above.  
   
@@ -320,7 +306,7 @@ To accommodate the rookie draft, the league-wide [roster size limit](#roster) wi
 Owners are responsible for notifying the Commissioner if they aren't able to participate in the rookie draft for any reason. Participation is important here; it can be rescheduled to accommodate. A missed rookie draft without notice will be considered abandoned and will become an [orphan team](#orphan-teams).  
   
 ### Draft Order Template  
-The "rankings" here will be determined by the overall record, then total regular season Points For (PF).  These are subject to change slightly, such as if #3 vs. #4 doesn't happen in the postseason.
+The "rankings" here will be determined by the overall record, then total regular season Points For (PF).  These may change slightly before the first rookie draft.
   
 | Pick | Seed               |
 | ---- | ------------------ |
