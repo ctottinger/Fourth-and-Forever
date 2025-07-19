@@ -1,6 +1,3 @@
----
-title: Fourth and Forever - 2025-2026 season rules
----
 # Fourth and Forever - 2025-2026 season rules  
   
 ## Contents  
