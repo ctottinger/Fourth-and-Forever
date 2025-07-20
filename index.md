@@ -1,5 +1,6 @@
 ---
 title: Fourth and Forever Rulebook
+summary: Rules for the 2025-2026 season in the Fourth and Forever dynasty league
 ---
 # Fourth and Forever - 2025-2026 season rules  
   
