@@ -1,5 +1,5 @@
 ---
-title: Fourth and Forever Rulebook
+title: Rulebook
 ---
 # Fourth and Forever - 2025-2026 season rules  
   
